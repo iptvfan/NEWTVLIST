@@ -1,3 +1,4 @@
+#EXTM3U
 民視HD,vjms://58.215.133.189:8500:3502/live/cid=450&delay=400&httpbuf=400&memory=50|http://test8055.s-itv.com?key=YbX1jR0wiWv7MeCDOoh6
 華視HD,vjms://58.215.133.189:8500:3502/live/cid=451&delay=400&httpbuf=400&memory=50|http://test8055.s-itv.com?key=YbX1jR0wiWv7MeCDOoh6
 中視HD,vjms://58.215.133.189:8500:3502/live/cid=452&delay=400&httpbuf=400&memory=50|http://test8055.s-itv.com?key=YbX1jR0wiWv7MeCDOoh6
